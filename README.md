@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Encuéntrame en:
+
+[![YouTube](https://img.shields.io/badge/YouTube-Josue_Terrazas_Mendoza-FF0000?style=for-the-badge&logo=YouTube&logoColor=white&labelColor=101010)](https://youtube.com/@terrazasmendozajosue7523)
+[![Facebook](https://img.shields.io/badge/Facebook-Josu%C3%A9_Terrazas-0866FF?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=101010)](https://facebook.com/josue.terrazasmendoza)
+</br>
+[![Instagram](https://img.shields.io/badge/Instagram-jos__mdz316-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/jos_mdz316/)
