@@ -21,6 +21,7 @@ Comparto mis proyectos realizados durantes esta estapa de mi vida, en el cual se
 
 De igual manera comparto los cursos que tomo de forma autodidacta en el sitio de Udemy como lo que es, lógica de programación, Python, Java, JavaScript, C y más herramientas tecnológicas.
 
+Actualmente estoy aprendiendo manejar bases de datos, administración de redes, fundamentos para la ingeniería de software, machine learning, lenguaje ensamblador y analísis léxico y sintáctico para un compilador.
 
 ## Encuéntrame en:
 
