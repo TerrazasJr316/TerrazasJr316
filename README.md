@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Futuro Ingeniero en Sistema Computacionales, capaz de aplicar estructuras de datos, programación orientado a objetos, manejo de sistema windows y linux (distriución ubuntu). Estoy en preparación desde 2022 en el Tecnológico de Estudios Superiores de Jilotepec, Estado de México.
+
+Comparto mis proyectos realizados durantes esta estapa de mi vida, en el cual se ve empleada la programación orientada a objetos, estructura de datos hasta el uso de un Frontend de desarrollo de una aplicación móvil.
+
+De igual manera comparto los cursos que tomo de forma autodidacta en el sitio de Udemy como lo que es, lógica de programación, Python, Java, JavaScript, C y más herramientas tecnológicas.
+
+
 ## Encuéntrame en:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%40Josu%C3%A9_Terrazas-0866FF?style=for-the-badge&logo=Facebook&logoColor=withe&labelColor=101010)](https://facebook.com/josue.terrazasmendoza)
