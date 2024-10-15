@@ -8,6 +8,11 @@ De igual manera comparto los cursos que tomo de forma autodidacta en el sitio de
 
 Actualmente estoy aprendiendo manejar bases de datos, administración de redes, fundamentos para la ingeniería de software, machine learning, lenguaje ensamblador y analísis léxico y sintáctico para un compilador.
 
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TerrazasJr316&theme=github_dark" alt="streak-stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TerrazasJr316&theme=github_dark" alt="Stats">
+</div>
+
 ## Encuéntrame en:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%40Josu%C3%A9_Terrazas-0866FF?style=for-the-badge&logo=Facebook&logoColor=withe&labelColor=101010)](https://facebook.com/josue.terrazasmendoza)
