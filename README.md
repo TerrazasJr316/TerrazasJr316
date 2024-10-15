@@ -13,6 +13,8 @@ Actualmente estoy aprendiendo manejar bases de datos, administración de redes, 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TerrazasJr316&theme=github_dark" alt="Stats">
 </div>
 
+![](https://github-readme-stats.vercel.app/api/top-langs?username=TerrazasJr316&show_icons=true&locale=en&layout=compact&theme=github_dark) 
+
 ## Encuéntrame en:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%40Josu%C3%A9_Terrazas-0866FF?style=for-the-badge&logo=Facebook&logoColor=withe&labelColor=101010)](https://facebook.com/josue.terrazasmendoza)
