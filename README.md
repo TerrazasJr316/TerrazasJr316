@@ -1,5 +1,7 @@
 # Hola, mi nombre es Josue Terrazas 👋
 
+
+
 Futuro Ingeniero en Sistema Computacionales, capaz de aplicar estructuras de datos, programación orientado a objetos, manejo de sistema windows y linux (distriución ubuntu). Estoy en preparación desde 2022 en el Tecnológico de Estudios Superiores de Jilotepec, Estado de México.
 
 Comparto mis proyectos realizados durantes esta estapa de mi vida, en el cual se ve empleada la programación orientada a objetos, estructura de datos hasta el uso de un Frontend de desarrollo de una aplicación móvil.
