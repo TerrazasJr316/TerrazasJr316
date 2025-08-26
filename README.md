@@ -1,6 +1,16 @@
-# Hola, mi nombre es Josue Terrazas 👋
+# Hi there 👋, I'm Josue Terrazas
 
 ![https://github.com/TerrazasJr316](./terrazasjr316_github_profile.jpg)
+
+## About Me
+
+Computer Systems Engineering student (since 2022), currently training in generative AI, backend development, and data science.
+Adaptable and flexible in different work environments, with strong critical thinking, solid problem-solving skills, and a collaborative, responsible mindset.
+My strongest areas are backend development, databases, and machine learning
+
+## 
+
+
 
 Futuro Ingeniero en Sistema Computacionales, capaz de aplicar estructuras de datos, programación orientado a objetos, manejo de sistema windows y linux (distriución ubuntu). Estoy en preparación desde 2022 en el Tecnológico de Estudios Superiores de Jilotepec, Estado de México.
 
