@@ -10,6 +10,17 @@ My strongest areas are backend development, databases, and machine learning
 
 ## 🛠️ Skills & Tools
 
+## 🛠️ Skills & Tools  
+
+| **Languages** | **Frameworks / Libraries** | **Databases** | **Tools & OS** | **GUI** |
+|---------------|-----------------------------|---------------|----------------|---------|
+| Python 🐍     | scikit-learn 🤖             | MySQL 🐬      | Git / GitHub 🐙 | Tkinter 🎨 |
+| Java ☕        | pandas 📊                  | PostgreSQL 🐘 | Anaconda 🐍     | PyQt5 🖼️ |
+| C 🔵          | NumPy 🔢                   | SQLite 🗄️    | Jupyter 📓      |         |
+| JavaScript 🟨 |                             |               | Linux 🐧        |         |
+| PHP 🐘        |                             |               | Windows 💻      |         |
+
+
 ### Languages
 
 * Python 🐍
