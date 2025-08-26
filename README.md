@@ -10,12 +10,10 @@ De igual manera comparto los cursos que tomo de forma autodidacta en el sitio de
 
 Actualmente estoy aprendiendo manejar bases de datos, administración de redes, fundamentos para la ingeniería de software, machine learning, lenguaje ensamblador y analísis léxico y sintáctico para un compilador.
 
-<div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TerrazasJr316&theme=github_dark" alt="streak-stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TerrazasJr316&theme=github_dark" alt="Stats">
-</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=TerrazasJr316&show_icons=true&locale=en&layout=compact&theme=github_dark) 
+![rank_github](https://github-readme-streak-stats.herokuapp.com/?user=TerrazasJr316&theme=github_dark)
+![stats_gitgub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TerrazasJr316&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=TerrazasJr316&show_icons=true&locale=en&layout=compact&theme=github_dark)
 
 ## Encuéntrame en:
 
