@@ -24,9 +24,9 @@ Experienced in working with a variety of frameworks, libraries, and containers f
 
 ![flask](https://img.shields.io/badge/flask-dev%20api-%233BABC3?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010)
 ![fastapi](https://img.shields.io/badge/fastapi-dev%20api-%23009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)
-![Numpy](https://img.shields.io/badge/Numpy-V2.2+-%23013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)
-![Pandas](https://img.shields.io/badge/Pandas-V2.2+-%23150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)
-![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-V1.6+-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=101010)
+![Numpy](https://img.shields.io/badge/Numpy-ml-%23013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)
+![Pandas](https://img.shields.io/badge/Pandas-ml-%23150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)
+![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-ml-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=101010)
 ![Spring](https://img.shields.io/badge/spring-multi-%236DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)
 ![Docker](https://img.shields.io/badge/docker-multi-%232496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)
 
