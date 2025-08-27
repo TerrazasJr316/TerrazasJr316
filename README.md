@@ -14,10 +14,11 @@ My strongest areas are backend development, databases, and machine learning
 
 Capable of working with multiple programming languages depending on their area of application, whether in web development, software development, machine learning, scripting, embedded systems, or automation. Some of them are:
 
-* 🐍 Python
-* 🟨 JavaScript
-* ☕ Java
-* ⚙️ Arduino/Bash
+![Python](https://img.shields.io/badge/Python-v3-%233776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)
+![JavaScript](https://img.shields.io/badge/JavaScript-web-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
+![Java](https://img.shields.io/badge/Java-multi-%23B12B28?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010)
+![Arduino](https://img.shields.io/badge/arduino-auth-%2300878F?style=for-the-badge&logo=arduino&logoColor=white&labelColor=101010)
+![Bash](https://img.shields.io/badge/bash-script-%234EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white&labelColor=101010)
 
 Experienced in working with a variety of frameworks, libraries, and containers for web development, mobile development, and machine learning, such as:
 
