@@ -59,12 +59,12 @@ Proficient with version control systems, virtual environments, and operating sys
 </td>
 <td>
 <a href="https://github.com/TerrazasJr316/MailGuard-web.git">
-<img src="src/linear-forecasting.jpg">
+<img src="">
 </a>
 </td>
 <td>
 <a href="https://github.com/TerrazasJr316/Developing-API-gestion-gastos.git">
-<img src="src/linear-forecasting.jpg">
+<img src="">
 </a>
 </td>
 </tr>
