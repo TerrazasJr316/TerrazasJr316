@@ -2,7 +2,7 @@
 
 ![https://github.com/TerrazasJr316](./terrazasjr316_github_profile.jpg)
 
->> 
+>>
 
 ## About Me
 
@@ -48,7 +48,61 @@ Proficient with version control systems, virtual environments, and operating sys
 ![arch](https://img.shields.io/badge/arch%20linux-os-%231793D1?style=for-the-badge&logo=arch%20linux&logoColor=white&labelColor=101010)
 ![windows](https://img.shields.io/badge/windows-os-%23126ED3?style=for-the-badge&logoColor=white&labelColor=101010)
 
-## 🗂️ Proyects
+## 🗂️ Projects
+
+<table style="width:100%">
+<tr>
+<td>
+<a href="https://github.com/TerrazasJr316/linear-forecasting.git">
+<img src="src/linear-forecasting.jpg">
+</a>
+</td>
+<td>
+<a href="https://github.com/TerrazasJr316/MailGuard-web.git">
+<img src="src/linear-forecasting.jpg">
+</a>
+</td>
+<td>
+<a href="https://github.com/TerrazasJr316/Developing-API-gestion-gastos.git">
+<img src="src/linear-forecasting.jpg">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://youtu.be/SavaU66KxQY">
+<img src="http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/G0ga_YVQOaw">
+<img src="http://i3.ytimg.com/vi/G0ga_YVQOaw/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/NJacVZx2fv8">
+<img src="http://i3.ytimg.com/vi/NJacVZx2fv8/maxresdefault.jpg">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://youtu.be/_y9qQZXE24A">
+<img src="http://i3.ytimg.com/vi/_y9qQZXE24A/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/mIVbUb7shE8">
+<img src="http://i3.ytimg.com/vi/mIVbUb7shE8/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/zFbTXe1yFGA">
+<img src="http://i3.ytimg.com/vi/zFbTXe1yFGA/maxresdefault.jpg">
+</a>
+</td>
+</tr>
+</table>
 
 ## ➡︎ Currently Learning
 
