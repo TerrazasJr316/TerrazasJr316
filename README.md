@@ -70,8 +70,8 @@ Proficient with version control systems, virtual environments, and operating sys
 </tr>
 <tr>
 <td>
-<a href="">
-<img src="">
+<a href="https://github.com/TerrazasJr316/machine-learning-aplication.git">
+<img src="src/email_detectorjpeg">
 </a>
 </td>
 <td>
