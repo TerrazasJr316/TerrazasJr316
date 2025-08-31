@@ -53,8 +53,8 @@ Proficient with version control systems, virtual environments, and operating sys
 <table style="width:100%">
 <tr>
 <td>
-<a href="https://github.com/TerrazasJr316/linear-forecasting.git">
-<img src="src/linear-forecasting.jpg">
+<a href="">
+<img src="src/manhattan-route.jpg">
 </a>
 </td>
 <td>
@@ -97,8 +97,8 @@ Proficient with version control systems, virtual environments, and operating sys
 </a>
 </td>
 <td>
-<a href="">
-<img src="">
+<a href="https://github.com/TerrazasJr316/linear-forecasting.git">
+<img src="src/linear-forecasting.jpg">
 </a>
 </td>
 </tr>
