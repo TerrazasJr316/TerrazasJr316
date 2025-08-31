@@ -44,7 +44,7 @@ Proficient with version control systems, virtual environments, and operating sys
 ![github](https://img.shields.io/badge/github-vsc-%23181717?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff)
 ![Aznaconda](https://img.shields.io/badge/Anaconda-V2.6+-%2344A833?style=for-the-badge&logo=anaconda&logoColor=white&labelColor=101010)
 ![Bash](https://img.shields.io/badge/bash-script-%234EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white&labelColor=101010)
-![ubuntu](https://img.shields.io/badge/linux%20ubuntu-os-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=101010)
+![ubuntu](https://img.shields.io/badge/ubuntu-os-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=101010)
 ![arch](https://img.shields.io/badge/arch%20linux-os-%231793D1?style=for-the-badge&logo=arch%20linux&logoColor=white&labelColor=101010)
 ![windows](https://img.shields.io/badge/windows-os-%23126ED3?style=for-the-badge&logoColor=white&labelColor=101010)
 
