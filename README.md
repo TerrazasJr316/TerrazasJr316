@@ -58,42 +58,8 @@ Proficient with version control systems, virtual environments, and operating sys
 </a>
 </td>
 <td>
-<a href="https://github.com/TerrazasJr316/MailGuard-web.git">
-<img src="">
-</a>
-</td>
-<td>
-<a href="https://github.com/TerrazasJr316/Developing-API-gestion-gastos.git">
-<img src="">
-</a>
-</td>
-</tr>
-<tr>
-<td>
 <a href="https://github.com/TerrazasJr316/machine-learning-aplication.git">
 <img src="src/email-detector.jpg">
-</a>
-</td>
-<td>
-<a href="">
-<img src="">
-</a>
-</td>
-<td>
-<a href="">
-<img src="">
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="">
-<img src="">
-</a>
-</td>
-<td>
-<a href="">
-<img src="">
 </a>
 </td>
 <td>
