@@ -85,5 +85,5 @@ At the same time, I am pursuing self-directed learning in Generative AI, version
 [![Facebook](https://img.shields.io/badge/Facebook-%40Josu%C3%A9_Terrazas-0866FF?style=for-the-badge&logo=Facebook&logoColor=withe&labelColor=101010)](https://facebook.com/josue.terrazasmendoza)
 [![Instagram](https://img.shields.io/badge/Instagram-%40jos__mdz316-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)](https://instagram.com/jos_mdz316/)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TerrazasJr316&theme=github-dark-blue&hide_border=true&border_radius=4&card_width=470&card_height=170)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TerrazasJr316&theme=github-dark-blue&hide_border=true&border_radius=4&card_width=470&card_height=170)
 ![rank_github](https://github-readme-stats.vercel.app/api/top-langs?username=TerrazasJr316&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true)
